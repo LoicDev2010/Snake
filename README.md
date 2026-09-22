@@ -1,4 +1,4 @@
-# 🐍 Snake
+# Snake
 
 Eine eigene Implementierung des Klassikers **Snake**, umgesetzt in C# (.NET / Visual Studio).
 
@@ -33,7 +33,3 @@ dotnet run
 ## Autor
 
 **Loïc Deverin** – [Portfolio](https://loicdeverin.vercel.app)
-
-## Lizenz
-
-Noch keine Lizenz definiert.
